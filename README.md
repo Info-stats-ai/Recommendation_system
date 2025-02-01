@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Info-stats-ai
 - 👀 I’m interested in Machine learning and artificial Intelligence
-- 🌱 I’m currently learning in Arizona State University - Ms in Robotics and Autonomous Systems 
-- 💞️ I’m looking to collaborate on Basice Ml and AI projects Now.
+- 🌱 I’m Pursuing Master's in Data Science at University of Maryland
+- 💞️ I’m looking to collaborate on Generative AI and Deep Leanring  projects.
 - 📫 You can reach me via my email live.onkar@gmail.com
 - 😄 Pronouns: OM
 
