@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Info-stats-ai
-- 👀 I’m interested in Machine learning and artificial Intelligence
+- 👀 I’m interested in Generative AI and NLP
 - 🌱 I’m Pursuing Master's in Data Science at University of Maryland
 - 💞️ I’m looking to collaborate on Generative AI and Deep Leanring  projects.
 - 📫 You can reach me via my email live.onkar@gmail.com
